@@ -1,0 +1,67 @@
+.slick-list.draggable{
+     width: 1600px;
+}
+body{
+     background-color: gold;
+}
+h1{
+     text-align: center;
+     color: white;
+}
+.sonic img{
+     height: 300px;
+     margin-left: 741px;
+}
+button.slick-prev.slick-arrow{
+     float: left;
+     margin-top: 137px;
+     color:blue;
+     background: gold;
+}
+button.slick-next.slick-arrow{
+     float: right;
+     margin-top: -145px;
+     color:blue;
+     background: gold;
+}
+.tails img{
+     height: 300px;
+     margin-left: 100px;
+}
+.knuckles img{
+     height: 300px;
+     margin-left: 100px;
+}
+ul.slick-dots{
+     display: inline;
+     list-style: none;
+}
+button#slick-slide-control20, #slick-slide-control21{
+     float: left;
+     list-style: none;
+     color: blue;
+     background: gold;
+}
+ul.slick-dots{
+     display: inline;
+}
+button#slick-slide-control30, #slick-slide-control31, #slick-slide-control32, #slick-slide-control33, #slick-slide-control34{
+     float: left;
+     list-style: none;
+     color: blue;
+     background: gold;
+}
+.amy img{
+     height: 300px;
+}
+.silver img{
+     height: 300px;
+     margin-left: 800px;
+}
+
+button#slick-slide-control40, #slick-slide-control41, #slick-slide-control42{
+     float: left;
+     list-style: none;
+     color: blue;
+     background: gold;
+}
